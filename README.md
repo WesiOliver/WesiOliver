@@ -15,16 +15,17 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Tenho 
 
 ### 💼 Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)
-![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-000000?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=red)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=flat&logo=android-studio&logoColor=green)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=red)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-68217A?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
