@@ -66,5 +66,5 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Tenho 
 
 ---
 
-> “Código limpo é aquele que você tem orgulho de compartilhar.”
+> “Disciplina rigorosa e determinação constante para superar limites e alcançar a excelência.”
 
