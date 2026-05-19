@@ -1,19 +1,19 @@
-# 👋 Olá! Eu sou o Wesicley Santos Oliveira
+# Olá! Eu sou o Wesicley Santos Oliveira
 
-🎓 Estudante de Desenvolvimento de Sistemas (SENAI - 4º semestre)  
-💻 Programador Full Stack em formação | Foco em projetos web/mobile  
-📍 Camaçari – Bahia | 19 anos  
+Técnico em Desenvolvimento de Sistemas (SENAI - 4º semestre)  
+Programador Full Stack em formação | Foco em projetos web/mobile  
+Camaçari – Bahia | 20 anos  
 🔗 [LinkedIn](https://www.linkedin.com/in/wesicley-santos-oliveira) | [Meu GitHub](https://github.com/WesiOliver)  
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Tenho experiência com projetos integrando front-end, back-end e banco de dados, tanto web quanto mobile. Gosto de resolver problemas, trabalhar em equipe e sempre busco aprender algo novo todos os dias.
 
 ---
 
-### 💼 Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -29,7 +29,7 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Tenho 
 
 ---
 
-### 📌 Projetos em Destaque
+###  Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -42,14 +42,14 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Tenho 
 
 ---
 
-### 📚 Formação Acadêmica
+###  Formação Acadêmica
 
-🎓 Curso Técnico em Desenvolvimento de Sistemas - SENAI (2023–2025)  
-📘 Ensino Médio Completo
+ Curso Técnico em Desenvolvimento de Sistemas - SENAI (2023–2025)  
+ Ensino Médio Completo
 
 ---
 
-### 🎓 Cursos Adicionais
+###  Cursos Adicionais
 
 - Informática Avançada  
 - Rotinas Administrativas  
@@ -58,11 +58,11 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Tenho 
 
 ---
 
-### 📫 Contato
+###  Contato
 
-📧 wesicley.oliver@gmail.com  
-📱 (71) 9 8115 – 4858  
-🔗 [LinkedIn](https://www.linkedin.com/in/wesicley-santos-oliveira)
+ wesicley.oliver@gmail.com  
+ (71) 9 8115 – 4858  
+ [LinkedIn](https://www.linkedin.com/in/wesicley-santos-oliveira)
 
 ---
 
